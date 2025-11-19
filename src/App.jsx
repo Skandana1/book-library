@@ -1,5 +1,6 @@
 import React from "react";
-import BookCard from "./components/BookCard";
+import BookCard from "./BookCard";
+
 
 const books = [
   {
